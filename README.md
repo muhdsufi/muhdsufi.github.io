@@ -1,2 +1,2 @@
 # muhdsufi.github.io
-mypersonal site
+my personal site
