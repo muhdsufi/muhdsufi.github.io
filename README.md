@@ -1,6 +1,6 @@
-# muhdsufi.github.io
+My Personal Site
 
-My Personal Site at
+discontinued from muhdsufi.tech
 
-muhdsufi.github.io
+because optimization
 
