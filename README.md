@@ -1,6 +1,9 @@
 My Personal Site
 
-discontinued from muhdsufi.tech
+moved to Github
+(discontinued from muhdsufi.tech domain name)
+because the domain name way too expensive 
 
-because optimization
 
+
+and im broke hehe
