@@ -4,4 +4,6 @@ moved to Github
 
 (discontinued from muhdsufi.tech domain name)
 
-Its now fully static page
+The domain name way too expensive and im broke hehe ;p
+
+Its now fully static web page
