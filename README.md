@@ -1,4 +1,4 @@
-# muhdsufi
+# Muhammad Sufi Afifi
 
 **Personal Site v3**
 
