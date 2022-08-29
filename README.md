@@ -1,4 +1,4 @@
-# muhdsufi.github.io
+# muhdsufi
 
 **Personal Site v3**
 
